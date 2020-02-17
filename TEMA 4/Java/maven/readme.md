@@ -36,5 +36,10 @@ Ahora limpiamos con un
 ```
 mvn clean
 ```
+Empaquetamos y luego limpiamos y ya lo tenemos
 
+```
+mvn package
+mvn clean package
+```
 
